@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Saeed Jamshidi
+- 👋 Hi, I’m Saeed Jamshidi.
 - 👀 I’m interested in Fluid Mechanics problems.
 - 🌱 I’m currently looking for phd position.
 - 📫 How to reach me:
